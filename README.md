@@ -24,7 +24,7 @@
 <p><img src="./assets/main.gif?tiboriginal" width="30px" class="tib-load">&nbsp;<em><strong>My main skills…</strong></em></p>
 <p>✔ <strong>AI & ML:</strong>LLMs, AI agents, RAG pipelines, fine-tuning (LoRA/PEFT), vector databases<br>
 ✔ <strong>Frontend:</strong>React, Next.js, UI/UX design, dashboard integration, interactive AI interfaces<br>
-✔ <strong>Backend:</strong>Python, TypeScript, Rust, C#/.NET, FastAPI, Flask, async microservices<br>
+✔ <strong>Backend:</strong>Python, TypeScript, Rust, C++, C#/.NET, FastAPI, Flask, async microservices<br>
 ✔ <strong>Database:</strong>PostgreSQL, MongoDB, Redis, MySQL, FAISS <br>
 ✔ <strong>DevOps & Deployment:</strong>AWS, Docker, Kubernetes, CI/CD pipelines, scalable deployment <br>
 </p>

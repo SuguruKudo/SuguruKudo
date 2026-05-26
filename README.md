@@ -22,10 +22,10 @@
 <div>
 <img align="right" width="300px" alt="Unicorn" src="./assets/busy-cute.gif?tiboriginal" class="tib-load">
 <p><img src="./assets/main.gif?tiboriginal" width="30px" class="tib-load">&nbsp;<em><strong>My main skills…</strong></em></p>
-<p>✔ <strong>AI & ML:</strong>LLMs, AI agents, RAG pipelines, fine-tuning (LoRA/PEFT), computer vision, vector databases(FAISS)<br>
+<p>✔ <strong>AI & ML:</strong>LLMs, AI agents, RAG pipelines, fine-tuning (LoRA/PEFT), computer vision<br>
 ✔ <strong>Frontend:</strong>React, Next.js, UI/UX design, interactive AI interfaces, dashboard systems<br>
 ✔ <strong>Backend:</strong>Python, TypeScript, Rust, C++, C#/.NET, FastAPI, Flask, async microservices<br>
 ✔ <strong>Database:</strong>PostgreSQL, MongoDB, Redis, MySQL<br>
-✔ <strong>DevOps & Deployment:</strong>AWS, Docker, Kubernetes, CI/CD pipelines, scalable system design<br>
+✔ <strong>DevOps & Deployment:</strong>AWS, Docker, Kubernetes, CI/CD pipelines, scalable deployment<br>
 </p>
 </diV>

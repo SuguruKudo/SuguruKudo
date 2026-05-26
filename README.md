@@ -26,6 +26,6 @@
 ✔ <strong>Frontend:</strong>React, Next.js, UI/UX design, interactive AI interfaces, dashboard systems<br>
 ✔ <strong>Backend:</strong>Python, TypeScript, Rust, C++, C#/.NET, FastAPI, Flask, async microservices<br>
 ✔ <strong>Database:</strong>PostgreSQL, MongoDB, Redis, MySQL<br>
-✔ <strong>DevOps & Deployment:</strong>AWS, Docker, Kubernetes, CI/CD pipelines, scalable deployment<br>
+✔ <strong>DevOps & Deployment:</strong>AWS, Docker, Kubernetes, CI/CD pipelines, scalable system design<br>
 </p>
 </diV>
